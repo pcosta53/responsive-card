@@ -11,7 +11,7 @@ body{
 /* settings for people that have stated that they want reduced motion */
 @media (prefers-reduced-motion){
     body{
-        background-color: rgb(230, 20, 20);
+        background-color: rgb(24, 41, 188);
     }
     .wrapper{
         background-image: url("moon-static.jpg");
